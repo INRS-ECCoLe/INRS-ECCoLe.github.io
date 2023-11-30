@@ -207,7 +207,16 @@ ul#menu li a:hover
   display: block;
   background: transparent url(link.png) no-repeat left center;} 
 
+.sidebar li g, .sidebar li g:hover
+  { padding: 0 0 0 35px;
+    display: block;
+    background: transparent url(ECCoLe_icon.png) no-repeat left center;} 
+
 .sidebar li a.selected
+{ color: #444;
+  text-decoration: none;} 
+
+.sidebar li g.selected
 { color: #444;
   text-decoration: none;} 
 
